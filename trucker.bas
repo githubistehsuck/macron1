@@ -1,3 +1,4 @@
+05 REM Yeah this should work
 10 REM Independent Trucker Simulation
 20 RANDOMIZE
 30 REM a = INT(RND(1) * 10 + 1): PRINT a: GOTO 30
